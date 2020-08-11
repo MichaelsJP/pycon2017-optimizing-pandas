@@ -1,4 +1,4 @@
-Cython>=0.25.2
+Cython>=0.29.21
 jupyter>=1.0.0
 line-profiler>=2.0
-pandas>=0.20.1
+pandas>=1.1.0
